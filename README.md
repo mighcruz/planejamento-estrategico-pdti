@@ -1,2 +1,114 @@
-# planejamento-estrategico-pdti
-Planejamento Estratégico e Plano Diretor de TI (PDTI) com alinhamento via BSC, estruturação de portfólio e roadmap tecnológico. Projeto acadêmico aplicado.
+# Planejamento Estratégico e Plano Diretor de TI (PDTI)
+
+> Alinhamento estratégico entre TI e negócio, estruturação de portfólio e roadmap tecnológico para evolução da maturidade de governança.
+
+**Status:** Concluído  
+**Natureza:** Acadêmico Aplicado em Contexto Empresarial Real
+
+---
+
+## 🔒 Nota de Confidencialidade
+
+*Tratando-se de um projeto desenvolvido em contexto empresarial real, dados sensíveis, nomes de colaboradores, endereços específicos, IPs e detalhes operacionais internos da organização foram anonimizados ou generalizados neste repositório, preservando a confidencialidade da empresa analisada.*
+
+---
+
+## Visão Geral
+
+Este projeto consistiu na elaboração do Plano Diretor de Tecnologia da Informação (PDTI) para uma empresa real de serviços de TI. O trabalho focou no alinhamento estratégico entre as metas corporativas e as iniciativas de tecnologia, utilizando o Balanced Scorecard (BSC) para conectar objetivos de negócio a ações de TI, estruturar o portfólio de serviços e definir indicadores de desempenho (KPIs) para um horizonte de 12 a 24 meses.
+
+## Contexto e Problema
+
+A organização possuía alta capacidade técnica de execução, mas operava com processos de governança empíricos. As iniciativas tecnológicas eram predominantemente reativas, focadas na resolução de incidentes operacionais, sem uma visão clara de como a tecnologia poderia impulsionar o crescimento da receita, a retenção de clientes e a eficiência dos processos internos. Essa desconexão limitava a escalabilidade do negócio e a previsibilidade dos investimentos.
+
+## Objetivos
+
+- Alinhar os objetivos estratégicos de TI às metas corporativas (Perspectivas Financeira, Clientes, Processos Internos e Aprendizado).
+- Estruturar o portfólio de serviços e projetos de TI com base no valor gerado para o negócio.
+- Definir indicadores de desempenho (KPIs) e metas mensuráveis para a governança de TI.
+- Elaborar um roadmap tecnológico para a transição de uma operação empírica para um modelo de serviços estruturado (baseado em ITIL e COBIT).
+
+## Escopo
+
+**Inclusões:** Diagnóstico estratégico, análise SWOT, mapeamento BSC, definição de portfólio de TI, estruturação de KPIs e planejamento de roadmap.  
+**Exclusões:** Implementação técnica das soluções, aquisição de hardware e expansão física da infraestrutura.  
+**Limites:** Projeto acadêmico com prazo definido. As projeções financeiras e de eficiência operacional representam metas estabelecidas no plano, e não resultados históricos consolidados.
+
+## Papel e Responsabilidades
+
+Atuação na condução do diagnóstico estratégico, elaboração da análise SWOT, construção da matriz de alinhamento BSC (conectando perspectivas de negócio a iniciativas de TI) e definição dos KPIs e do portfólio de serviços.
+
+## Metodologia e Abordagem
+
+O projeto foi conduzido em fases estruturadas:
+1. **Entendimento do Negócio:** Mapeamento da Missão, Visão, Valores e objetivos corporativos macro.
+2. **Alinhamento Estratégico (BSC):** Desdobramento dos objetivos corporativos em quatro perspectivas, conectando-os a objetivos e iniciativas específicas de TI.
+3. **Análise de Cenário:** Realização de análise SWOT para identificar forças, fraquezas, oportunidades e ameaças do ambiente de TI atual.
+4. **Estruturação do Portfólio:** Categorização dos serviços e projetos de TI com base em sua contribuição estratégica e priorização (GUT).
+5. **Definição de KPIs e Roadmap:** Estabelecimento de metas mensuráveis e cronograma de implementação das iniciativas prioritárias.
+
+## Frameworks e Boas Práticas
+
+- **Balanced Scorecard (BSC):** Utilizado como ferramenta central para traduzir a estratégia do negócio em objetivos acionáveis de TI, estabelecendo relações de causa e efeito.
+- **COBIT 5/2019:** Aplicado para garantir que o portfólio e os processos de TI estivessem alinhados aos objetivos de governança e gestão de riscos.
+- **ITIL:** Utilizado como referência para a estruturação do portfólio de serviços e definição de métricas de nível de serviço.
+- **SWOT:** Aplicado para o diagnóstico do ambiente interno e externo de TI.
+
+## Tecnologias e Ferramentas
+
+- **Modelagem e Gestão:** Ferramentas de modelagem de processos, planilhas para matriz BSC e projeções estratégicas.
+- **Diagramação:** Draw.io (para topologias e fluxos estratégicos).
+
+## Solução e Arquitetura
+
+A solução entregue foi um modelo de planejamento estratégico que rompeu com a visão puramente operacional da TI. A arquitetura do plano estabeleceu relações de causa e efeito claras: por exemplo, a *Capacitação da equipe (Aprendizado)* leva à *Melhoria dos processos internos*, que resulta em *Maior satisfação do cliente* e, finalmente, no *Aumento da receita (Financeira)*. O portfólio de TI foi desenhado para suportar diretamente essas cadeias de valor.
+
+## Evidências e Entregáveis
+
+- **Matriz de Alinhamento Estratégico (BSC):** Tabela detalhada conectando objetivos corporativos a iniciativas de TI (ex: Reduzir custos operacionais → Automação de processos e Backup em nuvem).
+- **Análise SWOT de TI:** Diagnóstico estratégico identificando a equipe qualificada como força, e a ausência de SLAs formais como fraqueza crítica.
+- **Portfólio de Serviços de TI:** Catálogo de serviços estruturado (Suporte, Infraestrutura, Projetos, Consultoria) com priorização.
+- **Dashboard de KPIs:** Definição de indicadores estratégicos (ex: Tempo Médio de Resolução, NPS, Taxa de Retenção de Clientes, Taxa de Capacitação).
+- **Roadmap Tecnológico:** Cronograma de iniciativas para os próximos 12 a 24 meses.
+
+*[Espaço reservado para inserção de imagens da Matriz BSC, Gráfico do Portfólio de TI ou Dashboard de KPIs sanitizados]*
+
+## Resultados e Validação
+
+- Estabelecimento claro da relação de causa e efeito entre investimentos em TI e resultados de negócio.
+- Definição de metas estratégicas para o PDTI, incluindo **projeções** de redução de 20% no tempo de resposta ao cliente (via implementação de Service Desk) e aumento de 20% na retenção de contratos (via formalização de SLAs).
+- Aprovação do plano pela gestão como o guia mestre para a transição da maturidade organizacional.
+
+## Aprendizados e Limitações
+
+- **Aprendizado:** O uso do BSC foi fundamental para "vender" a governança de TI para a alta gestão, pois traduziu termos técnicos (ex: virtualização, backups) em linguagem de negócio (ex: redução de custos, continuidade do serviço).
+- **Limitação:** O sucesso do PDTI depende intrinsecamente da disciplina na execução das iniciativas e no monitoramento contínuo dos KPIs, o que exige uma mudança cultural na organização que vai além da entrega do plano.
+
+## Próximos Passos e Evoluções Futuras
+
+- Iniciar a execução das iniciativas de curto prazo do roadmap (ex: implantação de ferramenta de Service Desk e formalização de contratos).
+- Implementar rotinas mensais de análise crítica dos KPIs definidos no BSC.
+- Revisar o PDTI anualmente para ajustar as iniciativas de TI às novas demandas do mercado.
+
+---
+
+## 📂 Documentação, Evidências e Recursos
+
+- [Link para o Relatório Executivo do PDTI (Sanitizado)]
+- [Link para a Matriz de Alinhamento BSC]
+- [Link para a Análise SWOT e Portfólio de TI]
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhcruz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig.kruz@gmail.com)
+
+---
+
+## 🧭 Navegação do Portfólio
+
+[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
+
+[📂 Voltar ao Hub Central de Projetos](https://github.com/mighcruz/portfolio-ti)
