@@ -2,17 +2,8 @@
 
 > Alinhamento estratégico entre TI e negócio, estruturação de portfólio e roadmap tecnológico para evolução da maturidade de governança.
 
-**Status:** Concluído  
-**Natureza:** Acadêmico Aplicado em Contexto Empresarial Real
-
+**Natureza:** Acadêmico / Contexto Empresarial Real ✔
 ---
-
-## 🔒 Nota de Confidencialidade
-
-*Tratando-se de um projeto desenvolvido em contexto empresarial real, dados sensíveis, nomes de colaboradores, endereços específicos, IPs e detalhes operacionais internos da organização foram anonimizados ou generalizados neste repositório, preservando a confidencialidade da empresa analisada.*
-
----
-
 ## Visão Geral
 
 Este projeto consistiu na elaboração do Plano Diretor de Tecnologia da Informação (PDTI) para uma empresa real de serviços de TI. O trabalho focou no alinhamento estratégico entre as metas corporativas e as iniciativas de tecnologia, utilizando o Balanced Scorecard (BSC) para conectar objetivos de negócio a ações de TI, estruturar o portfólio de serviços e definir indicadores de desempenho (KPIs) para um horizonte de 12 a 24 meses.
@@ -48,6 +39,13 @@ O projeto foi conduzido em fases estruturadas:
 5. **Definição de KPIs e Roadmap:** Estabelecimento de metas mensuráveis e cronograma de implementação das iniciativas prioritárias.
 
 ## Frameworks e Boas Práticas
+
+<p>
+  <img src="https://img.shields.io/badge/Balanced%20Scorecard-1F497D?style=flat&logoColor=white" alt="Balanced Scorecard">
+  <img src="https://img.shields.io/badge/COBIT%205%2F2019-003366?style=flat&logoColor=white" alt="COBIT 5/2019">
+  <img src="https://img.shields.io/badge/ITIL-005A9C?style=flat&logoColor=white" alt="ITIL">
+  <img src="https://img.shields.io/badge/SWOT-595959?style=flat&logoColor=white" alt="SWOT">
+</p>
 
 - **Balanced Scorecard (BSC):** Utilizado como ferramenta central para traduzir a estratégia do negócio em objetivos acionáveis de TI, estabelecendo relações de causa e efeito.
 - **COBIT 5/2019:** Aplicado para garantir que o portfólio e os processos de TI estivessem alinhados aos objetivos de governança e gestão de riscos.
@@ -112,3 +110,9 @@ A solução entregue foi um modelo de planejamento estratégico que rompeu com a
 [⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
 
 [📂 Voltar ao Hub Central de Projetos](https://github.com/mighcruz/portfolio-ti)
+
+---
+
+###### 🔒 Nota de Confidencialidade
+
+###### *Tratando-se de um projeto desenvolvido em ambiente de simulação corporativa e laboratório de testes, quaisquer topologias de rede, endereços IP, credenciais de acesso ou configurações específicas mencionadas na documentação original foram omitidas ou sanitizadas neste repositório, preservando as boas práticas de segurança da informação.*
