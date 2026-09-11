@@ -1,9 +1,11 @@
-<p align="center">   <img src="docs/capa.png" alt="Banner do projeto pdti" width="1000"> </p>
+<p align="center"> <img src="docs/capa.png" alt="Banner do projeto pdti" width="1000"> </p>
 
-> Alinhamento estratégico entre TI e negócio, estruturação de portfólio e roadmap tecnológico para evolução da maturidade de governança.
+Alinhamento estratégico entre TI e negócio, estruturação de portfólio e roadmap tecnológico para evolução da maturidade de governança.
 
-**Natureza:** Acadêmico / Contexto Empresarial Real ✔
+#### **Natureza:** Acadêmico / Empresarial Real
+
 ---
+
 ## Visão Geral
 
 Este projeto consistiu na elaboração do Plano Diretor de Tecnologia da Informação (PDTI) para uma empresa real de serviços de TI. O trabalho focou no alinhamento estratégico entre as metas corporativas e as iniciativas de tecnologia, utilizando o Balanced Scorecard (BSC) para conectar objetivos de negócio a ações de TI, estruturar o portfólio de serviços e definir indicadores de desempenho (KPIs) para um horizonte de 12 a 24 meses.
@@ -20,9 +22,8 @@ A organização possuía alta capacidade técnica de execução, mas operava com
 - Elaborar um roadmap tecnológico para a transição de uma operação empírica para um modelo de serviços estruturado (baseado em ITIL e COBIT).
 
 ## Escopo
-
-**Inclusões:** Diagnóstico estratégico, análise SWOT, mapeamento BSC, definição de portfólio de TI, estruturação de KPIs e planejamento de roadmap.  
-**Exclusões:** Implementação técnica das soluções, aquisição de hardware e expansão física da infraestrutura.  
+**Inclusões:** Diagnóstico estratégico, análise SWOT, mapeamento BSC, definição de portfólio de TI, estruturação de KPIs e planejamento de roadmap.
+**Exclusões:** Implementação técnica das soluções, aquisição de hardware e expansão física da infraestrutura.
 **Limites:** Projeto acadêmico com prazo definido. As projeções financeiras e de eficiência operacional representam metas estabelecidas no plano, e não resultados históricos consolidados.
 
 ## Papel e Responsabilidades
@@ -32,19 +33,19 @@ Atuação na condução do diagnóstico estratégico, elaboração da análise S
 ## Metodologia e Abordagem
 
 O projeto foi conduzido em fases estruturadas:
+
 1. **Entendimento do Negócio:** Mapeamento da Missão, Visão, Valores e objetivos corporativos macro.
 2. **Alinhamento Estratégico (BSC):** Desdobramento dos objetivos corporativos em quatro perspectivas, conectando-os a objetivos e iniciativas específicas de TI.
 3. **Análise de Cenário:** Realização de análise SWOT para identificar forças, fraquezas, oportunidades e ameaças do ambiente de TI atual.
 4. **Estruturação do Portfólio:** Categorização dos serviços e projetos de TI com base em sua contribuição estratégica e priorização (GUT).
 5. **Definição de KPIs e Roadmap:** Estabelecimento de metas mensuráveis e cronograma de implementação das iniciativas prioritárias.
-
 ## Frameworks e Boas Práticas
 
 <p>
-  <img src="https://img.shields.io/badge/Balanced%20Scorecard-1F497D?style=flat&logoColor=white" alt="Balanced Scorecard">
-  <img src="https://img.shields.io/badge/COBIT%205%2F2019-003366?style=flat&logoColor=white" alt="COBIT 5/2019">
-  <img src="https://img.shields.io/badge/ITIL-005A9C?style=flat&logoColor=white" alt="ITIL">
-  <img src="https://img.shields.io/badge/SWOT-595959?style=flat&logoColor=white" alt="SWOT">
+<img src="https://img.shields.io/badge/Balanced%20Scorecard-1F497D?style=flat&logoColor=white" alt="Balanced Scorecard">
+<img src="https://img.shields.io/badge/COBIT%205%2F2019-003366?style=flat&logoColor=white" alt="COBIT 5/2019">
+<img src="https://img.shields.io/badge/ITIL-005A9C?style=flat&logoColor=white" alt="ITIL">
+<img src="https://img.shields.io/badge/SWOT-595959?style=flat&logoColor=white" alt="SWOT">
 </p>
 
 - **Balanced Scorecard (BSC):** Utilizado como ferramenta central para traduzir a estratégia do negócio em objetivos acionáveis de TI, estabelecendo relações de causa e efeito.
@@ -71,35 +72,27 @@ A solução entregue foi um modelo de planejamento estratégico que rompeu com a
 
 *[Espaço reservado para inserção de imagens da Matriz BSC, Gráfico do Portfólio de TI ou Dashboard de KPIs sanitizados]*
 
+<p align="center"> <img src="docs/Planejamento_Estratégico_e_PDTI.png" alt="Banner do projeto pdti" width="800"> </p>
+
 ## Resultados e Validação
 
 - Estabelecimento claro da relação de causa e efeito entre investimentos em TI e resultados de negócio.
 - Definição de metas estratégicas para o PDTI, incluindo **projeções** de redução de 20% no tempo de resposta ao cliente (via implementação de Service Desk) e aumento de 20% na retenção de contratos (via formalização de SLAs).
 - Aprovação do plano pela gestão como o guia mestre para a transição da maturidade organizacional.
-
 ## Aprendizados e Limitações
-
 - **Aprendizado:** O uso do BSC foi fundamental para "vender" a governança de TI para a alta gestão, pois traduziu termos técnicos (ex: virtualização, backups) em linguagem de negócio (ex: redução de custos, continuidade do serviço).
 - **Limitação:** O sucesso do PDTI depende intrinsecamente da disciplina na execução das iniciativas e no monitoramento contínuo dos KPIs, o que exige uma mudança cultural na organização que vai além da entrega do plano.
-
-## Próximos Passos e Evoluções Futuras
-
-- Iniciar a execução das iniciativas de curto prazo do roadmap (ex: implantação de ferramenta de Service Desk e formalização de contratos).
-- Implementar rotinas mensais de análise crítica dos KPIs definidos no BSC.
-- Revisar o PDTI anualmente para ajustar as iniciativas de TI às novas demandas do mercado.
 
 ---
 
 ## 📂 Documentação, Evidências e Recursos
 
 - [Relatório Estrategico Planejamento](docs/planejestrategico.pdf)
-- [Relatório Executivo do PDTI (Sanitizado)](docs/pdti.pdf)
-- [Link para a Matriz de Alinhamento BSC] (docs/ .pdf)
-- [Link para a Análise SWOT e Portfólio de TI] (docs/ .pdf)
-
+- [Relatório Executivo do PDTI](docs/pdti.pdf)
 - [Video de Apresentação](https://drive.google.com/file/d/1EsgV0PF4m60OPkClJ20KyyatZ058_CDt/view?usp=sharing)
 
-
+- [Link para a Matriz de Alinhamento BSC] (docs/ .pdf)
+- [Link para a Análise SWOT e Portfólio de TI] (docs/ .pdf)
 ---
 
 ## Contato
@@ -111,8 +104,7 @@ A solução entregue foi um modelo de planejamento estratégico que rompeu com a
 
 ## 🧭 Navegação do Portfólio
 
-[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
-
+[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
 [📂 Voltar ao Hub Central de Projetos](https://github.com/mighcruz/portfolio-ti)
 
 ---
