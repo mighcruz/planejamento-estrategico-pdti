@@ -92,11 +92,10 @@ A solução entregue foi um modelo de planejamento estratégico que rompeu com a
 
 ## 📂 Documentação, Evidências e Recursos
 
-- [Link para o Relatório Executivo do PDTI (Sanitizado)] (docs/planejestrategico.pdf)
-- [Link para o Relatório Executivo do PDTI (Sanitizado)] (docs/pdti.pdf)
-- [Link para a Matriz de Alinhamento BSC] (docs/REPORT%20-%20AVALIAÇÃO%20DE%20SERVICE%20DESK%20-27.04.2025.pdf)
-- [Link para a Análise SWOT e Portfólio de TI] (docs/REPORT%20-%20AVALIAÇÃO%20DE%20SERVICE%20DESK%20-27.04.2025.pdf)
-
+- [Relatório Estrategico Planejamento](docs/planejestrategico.pdf)
+- [Relatório Executivo do PDTI (Sanitizado)](docs/pdti.pdf)
+- [Link para a Matriz de Alinhamento BSC] (docs/ .pdf)
+- [Link para a Análise SWOT e Portfólio de TI] (docs/ .pdf)
 
 - [Video de Apresentação](https://drive.google.com/file/d/1EsgV0PF4m60OPkClJ20KyyatZ058_CDt/view?usp=sharing)
 
