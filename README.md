@@ -87,7 +87,7 @@ A solução entregue foi um modelo de planejamento estratégico que rompeu com a
 
 ## 📂 Documentação, Evidências e Recursos
 
-- [Relatório Estrategico Planejamento](docs/planejestrategico.pdf)
+- [Relatório Planejamento Estrategico](docs/planejestrategico.pdf)
 - [Relatório Executivo do PDTI](docs/pdti.pdf)
 - [Video de Apresentação](https://drive.google.com/file/d/1EsgV0PF4m60OPkClJ20KyyatZ058_CDt/view?usp=sharing)
 
