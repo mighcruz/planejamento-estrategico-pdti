@@ -1,5 +1,9 @@
 # Planejamento Estratégico e Plano Diretor de TI (PDTI)
 
+<p align="center">   <img src="docs/capa.png" alt="Banner do projeto pdti" width="1000">
+</p>
+
+
 > Alinhamento estratégico entre TI e negócio, estruturação de portfólio e roadmap tecnológico para evolução da maturidade de governança.
 
 **Natureza:** Acadêmico / Contexto Empresarial Real ✔
