@@ -1,8 +1,4 @@
-# Planejamento Estratégico e Plano Diretor de TI (PDTI)
-
-<p align="center">   <img src="docs/capa.png" alt="Banner do projeto pdti" width="1000">
-</p>
-
+<p align="center">   <img src="docs/capa.png" alt="Banner do projeto pdti" width="1000"> </p>
 
 > Alinhamento estratégico entre TI e negócio, estruturação de portfólio e roadmap tecnológico para evolução da maturidade de governança.
 
@@ -96,9 +92,14 @@ A solução entregue foi um modelo de planejamento estratégico que rompeu com a
 
 ## 📂 Documentação, Evidências e Recursos
 
-- [Link para o Relatório Executivo do PDTI (Sanitizado)]
-- [Link para a Matriz de Alinhamento BSC]
-- [Link para a Análise SWOT e Portfólio de TI]
+- [Link para o Relatório Executivo do PDTI (Sanitizado)] (docs/planejestrategico.pdf)
+- [Link para o Relatório Executivo do PDTI (Sanitizado)] (docs/pdti.pdf)
+- [Link para a Matriz de Alinhamento BSC] (docs/REPORT%20-%20AVALIAÇÃO%20DE%20SERVICE%20DESK%20-27.04.2025.pdf)
+- [Link para a Análise SWOT e Portfólio de TI] (docs/REPORT%20-%20AVALIAÇÃO%20DE%20SERVICE%20DESK%20-27.04.2025.pdf)
+
+
+- [Video de Apresentação](https://drive.google.com/file/d/1EsgV0PF4m60OPkClJ20KyyatZ058_CDt/view?usp=sharing)
+
 
 ---
 
